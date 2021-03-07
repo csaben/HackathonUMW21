@@ -1,4 +1,5 @@
-The following project placed 2nd place at the annual UMW Hackathon 2021
+The following project placed 2nd place at the annual 24 hour UMW Hackathon 2021 
+[code formatting is reflective of time constraints]
 
 Collected the data and trained the model for the following models;
 
@@ -22,7 +23,7 @@ fastai
 pickle
 
 References:
-https://www.youtube.com/watch?v=j-3vuBynnOE&list=LL&index=3
-https://www.youtube.com/watch?v=WvoLTXIjBYU&list=LL&index=4&t=937s
-https://www.youtube.com/watch?v=iGWbqhdjf2s
-https://keras.io/examples/vision/image_classification_from_scratch/
+1)https://www.youtube.com/watch?v=j-3vuBynnOE&list=LL&index=3
+2)https://www.youtube.com/watch?v=WvoLTXIjBYU&list=LL&index=4&t=937s
+3)https://www.youtube.com/watch?v=iGWbqhdjf2s
+4)https://keras.io/examples/vision/image_classification_from_scratch/
