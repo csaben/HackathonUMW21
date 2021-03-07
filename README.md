@@ -1,4 +1,4 @@
-The following project placed 2nd place at the annual 24 hour UMW Hackathon 2021 
+The following project placed 2nd at the annual 24 hour UMW Hackathon 2021 
 [code formatting is reflective of time constraints]
 
 Collected the data and trained the model for the following models;
